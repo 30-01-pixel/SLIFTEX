@@ -1,5 +1,5 @@
 
-# About SLIFTEX
+# About 
 
 SLIFTEX -> Similarity and LInguistic Filtering for Title EXamination
 
